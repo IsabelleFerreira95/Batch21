@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2997f1f-8755-422c-b572-d7aa4031253c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/ConditionlasStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/IfElseIfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/IfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/LogicalAnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/LogicalNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/LogicalOr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/MoreIfElseExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/MoreIfElseIfExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/MoreNestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/ScannerAndNestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/ScannerIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/SwitchLimitation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2md0msQfNYm73hlIvf7QZZ2FQRJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/isabe&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.LogicalAnd">
+    <configuration name="IfElseIfStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalStatements.IfElseIfStatement" />
+      <module name="JavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConditionalStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicalAnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalStatements.LogicalAnd" />
+      <module name="JavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConditionalStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoreIfElseIfExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalStatements.MoreIfElseIfExamples" />
+      <module name="JavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConditionalStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoreNestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalStatements.MoreNestedIf" />
+      <module name="JavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConditionalStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalStatements.ScannerIntro" />
+      <module name="JavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConditionalStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LogicalAnd" />
+        <item itemvalue="Application.ScannerIntro" />
+        <item itemvalue="Application.MoreNestedIf" />
+        <item itemvalue="Application.MoreIfElseIfExamples" />
+        <item itemvalue="Application.IfElseIfStatement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2997f1f-8755-422c-b572-d7aa4031253c" name="Changes" comment="" />
+      <created>1727391307586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727391307586</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
