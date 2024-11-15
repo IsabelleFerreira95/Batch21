@@ -18,7 +18,7 @@ public class ArithmeticOperators {
         System.out.println(div);
 
         int mod=num1%num2;
-        System.out.println(mod);
+        System.out.println(mod);//For remainder-returns the remainder of a division.
 
         int result=4/2+2*3-1;
         System.out.println(result);

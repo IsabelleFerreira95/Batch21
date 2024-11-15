@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2997f1f-8755-422c-b572-d7aa4031253c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loops/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/ForLoopsMoreExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/WhileLoopMoreExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArrayAnotherWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArrayIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/BreakKeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ContinueKeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/EnhancedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/ForLoopWithScanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/DoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators/ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/ArithmeticOperators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +46,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/isabe&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ForLoopsMoreExample">
-    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.DoWhileLoop" />
+  <component name="RunManager" selected="Application.ArithmeticOperators">
+    <configuration name="ArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.ArithmeticOperators" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.ForLoop" />
+    <configuration name="ArrayAnotherWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.ArrayAnotherWay" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopsMoreExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.ForLoopsMoreExample" />
+    <configuration name="CompoundAssignmentOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.CompoundAssignmentOperators" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalAnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalStatements.LogicalAnd" />
+    <configuration name="EnhancedForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.EnhancedForLoop" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConditionalStatements.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoopMoreExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.WhileLoopMoreExamples" />
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.WhileLoop" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ForLoopsMoreExample" />
-        <item itemvalue="Application.ForLoop" />
-        <item itemvalue="Application.DoWhileLoop" />
-        <item itemvalue="Application.WhileLoopMoreExamples" />
-        <item itemvalue="Application.LogicalAnd" />
+        <item itemvalue="Application.ArithmeticOperators" />
+        <item itemvalue="Application.CompoundAssignmentOperators" />
+        <item itemvalue="Application.WhileLoop" />
+        <item itemvalue="Application.EnhancedForLoop" />
+        <item itemvalue="Application.ArrayAnotherWay" />
       </list>
     </recent_temporary>
   </component>
